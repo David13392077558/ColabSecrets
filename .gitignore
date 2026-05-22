@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+__pycache__/
+.config/
+阿里初代.ipynb
+ESC/*.csv
